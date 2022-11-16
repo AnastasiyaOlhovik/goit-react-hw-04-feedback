@@ -1,0 +1,18 @@
+.statisticsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: blueviolet;
+
+    list-style: none;
+}
+
+.statistic {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 20px;
+}
